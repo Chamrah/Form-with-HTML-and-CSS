@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(238, 238, 238);
+}
+.table1{
+    width: 50%;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input{
+    border-radius: 8px;
+}
+fieldset{
+    margin-top: 20px;
+    width: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.table2{
+    width: 120%;
+}
+#submit{
+    background-color: rgb(69, 197, 69);
+    width: 43.2%;
+    height: 30px;
+    border-radius: 10px;
+}
